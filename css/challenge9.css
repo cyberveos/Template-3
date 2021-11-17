@@ -565,6 +565,8 @@ nav .links .parent-ul>li:hover .mega-menu {
 /* Start Gallery */
 .gallery {
   background-color: var(--main-color);
+  padding-top: 100px;
+  padding-bottom: 100px;
   position: relative;
 }
 
